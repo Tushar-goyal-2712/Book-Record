@@ -1,13 +1,13 @@
 
 #  5 Cursor Design
 
-Cursor Design using Javascript and CSS
+Book Record Website of a library using Javascript and Bootstrap
 
 
 
 ## 💻 Demo
 
-[Cursor Design Website Link](https://cursor-design-by-tushar.netlify.app/)
+[Book Record Website Link](https://book-record-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Cursor Design using Javascript and CSS
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/5-cursor.git
+  git clone https://github.com/Tushar-goyal-2712/Book-Record.git
 ```
 
 Install node_module dependencies
